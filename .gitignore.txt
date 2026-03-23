@@ -1,0 +1,7 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+# Note: If your 'flowers' dataset folder is larger than 100MB, 
+# uncomment the next line to prevent upload errors.
+# flowers/
